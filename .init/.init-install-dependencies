@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/face-recognition-attendance-system-13620-13629/attendance_database"
+}
